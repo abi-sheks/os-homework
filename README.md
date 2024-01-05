@@ -1,0 +1,1 @@
+this repo contains the src for the homework problems in [Operating Systems : Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), which I will solve as I work through the book. Will solve mostly in C.
